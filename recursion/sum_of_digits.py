@@ -9,8 +9,8 @@ def sumOfDigits(N):
 		return N%10 + sumOfDigits(N//10)
 
 
-# TIME COMPLEXITY - O(M) where M is the number if digits in a number 
-
+# TIME COMPLEXITY - O(M) where M is the number off digits in a number 
+# SPACE COMPLEXITY - O(M) where M is the number of digts in a number
 
 # EXAMPLES 
 # print(sumOfDigits(123)) -> 6 
