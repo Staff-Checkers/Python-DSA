@@ -14,3 +14,5 @@ def gcd(a, b):
 # EXAMPLES  
 # print(gcd(2, 5)) -> 1 
 # print(gcd(10, 2)) -> 2 
+
+# CONTRIBUTOR - Hridyansh Pareek(github.com/WORLDSAVER)
