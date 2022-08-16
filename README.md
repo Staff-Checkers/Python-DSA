@@ -1,4 +1,4 @@
-#Python
+# Python
 
 ## Recursion
 - [Sum of Array](recursion/sum_of_array.py)
