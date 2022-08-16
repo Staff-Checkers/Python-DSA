@@ -13,3 +13,5 @@ def productNum(N):
 # EXAMPLES 
 # print(productNum(123)) -> 6 
 # print(productNum(222)) -> 8
+
+# CONTRIBUTOR - Hridyansh Pareek(github.com/WORLDSAVER)
