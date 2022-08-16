@@ -6,3 +6,6 @@
 - [Sum of digits](recursion/sum_of_digits.py)
 - [Factorial](recursion/factorial.py)
 - [Greatest Common Divisor - GCD](recursion/gcd.py)
+
+## Sorting
+- [Bubble Sort](sorting/bubble_sort.py)
